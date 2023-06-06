@@ -1,0 +1,28 @@
+
+.resume {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.info {
+   
+    width: 30%;
+    float: left;   
+
+}
+.education {
+    width: 70%;
+    float: right;
+}
+
+footer {
+    position: fixed;
+}
+.info,
+.experience,
+.education {
+    border: 1px solid black;
+
+}
+
+
